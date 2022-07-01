@@ -1,2 +1,2 @@
 2ip.ru
-api.myip.com
+(?:^|\.)myip.com$
